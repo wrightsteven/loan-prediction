@@ -1,6 +1,11 @@
-# loan-prediction
+# Loan Prediction
 
-Use Pandas to read and organize data from trainloans.csv
+Steven Wright
 
-Use SciKit-Learn to split into train and test groups, run logistic regression.
-Accuracy score printed at the end.
+Python 3.7.3
+
+# Usage
+Run command:
+
+```
+python3 loanproject2.py
